@@ -41,6 +41,6 @@ Soy estudiante de **Ingeniería en Computación** con una fuerte orientación a 
 
 Estoy abierto a **oportunidades laborales como Analista SOC Jr.**, técnico de soporte con orientación a ITSEC o roles donde pueda crecer como profesional de la ciberseguridad.
 
-**Email:** [Mandar Mail](jonathan.miskinich.dev@gmail.com)  
+**Email:** [Mandar Mail](mailto:jonathan.miskinich.dev@gmail.com)  
 **LinkedIn:** [Perfil Linkedin](https://www.linkedin.com/in/jonathan-miskinich)  
-**CV:** (si tenés uno, linkealo)
+**CV:** [Descargar Curriculum](https://docs.google.com/document/d/1gYetdeQrKLP7IRFaUCULy9gn___4oblSnWJr8NuJpX8/edit?usp=sharing/export?format=pdf)
