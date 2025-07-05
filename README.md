@@ -28,7 +28,7 @@ Soy estudiante de **Ingeniería en Computación** con una fuerte orientación a 
 
 ## Proyectos de Ciberseguridad
 
-- [Backup automatizado con script](https://github.com/JonathanJMSEC/borg-script-backup)
+#### [Backup automatizado con script](https://github.com/JonathanJMSEC/borg-script-backup)
 Script de backup  automatizado de archivos del usuario en un almacenamiento externo.
 
 ---
